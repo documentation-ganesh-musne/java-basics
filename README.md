@@ -72,15 +72,15 @@
 ### <span style="color:#0d6efd">Java data types.</span>
 
 ---
-![operator table](./images/data-type.png)
-![operator table](./images/data-type-tree-diagram.png)
+[<img src="./images/data-type-tree-diagram.png" width="400"/>]()
+[<img src="./images/data-type.png" width="400"/>]()
 
 ---
 
 ### <span style="color:#0d6efd">Java operators.</span>
 
 ---
-![operator table](./images/java-operators.png)
+[<img src="./images/java-operators.png" width="400"/>]()
 
 ---
 
